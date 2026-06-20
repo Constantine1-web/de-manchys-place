@@ -201,8 +201,8 @@ export default function App() {
           <div className="flex flex-col space-y-1">
             <h1 className="text-2xl font-bold tracking-tight text-white">De Manchy's Place</h1>
             <div className="flex items-center gap-1 text-xs text-gray-400">
-              <MapPin className="w-3.5 h-3.5 text-coffee-500" />
-              <span>Four Lanes, Uyo</span>
+              <MapPin className="w-3.5 h-3.5 text-coffee-500 shrink-0" />
+              <span>136 General Edet Akpan Avenue (4-Lanes) Uyo.</span>
             </div>
           </div>
           
